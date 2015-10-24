@@ -1,3 +1,6 @@
 *.out
 *.log
 .*.swp
+.project
+.cproject
+
